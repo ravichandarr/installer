@@ -13,7 +13,7 @@ your PWA theme. Cache flush is necessary once done!
 
 ## Usage
 
-`composer require scandipwa/installer`
+`composer require racpwa/installer`
 
 After installation flush the caches (Varnish or filesystem).
 
