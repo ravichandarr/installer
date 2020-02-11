@@ -1,5 +1,5 @@
 {
-    "name": "ravipwa/installer",
+    "name": "racpwa/installer",
     "type": "magento2-theme",
     "description": "ScandiPWA bootstrap module",
     "keywords": [
@@ -24,7 +24,7 @@
     ],
     "require": {
         "magento/magento2-base": "^2.3",
-        "ravipwa/source": "^2.7.2"
+        "racpwa/source": "^2.7.2"
     },
     "autoload": {
         "files": [
